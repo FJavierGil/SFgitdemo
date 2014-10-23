@@ -3,3 +3,4 @@ composer.lock
 /app/cache/*
 /app/logs/*
 /app/phpunit.xml
+/app/config/parameters.yml
