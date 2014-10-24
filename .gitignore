@@ -4,3 +4,4 @@ composer.lock
 /app/logs/*
 /app/phpunit.xml
 /app/config/parameters.yml
+README.md
