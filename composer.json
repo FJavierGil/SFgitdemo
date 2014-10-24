@@ -5,6 +5,10 @@
     "description": "A collection of quotes",
     "autoload": {
         "psr-4": { "": "src/" }
+        # Note: PSR 4 requires you to:
+        #    - create one class per file
+        #    - give the same name to your file and your class
+        #    - use the path of the class for the namespace
     },
     "require": {
         "php": ">=5.3.17",
